@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364259277424",
+    "project_id": "mapintegration-751b0",
+    "storage_bucket": "mapintegration-751b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364259277424:android:d80ab8247e6e0953f852b5",
+        "android_client_info": {
+          "package_name": "com.project.googlemapintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5f3wN4SyGoogEKiGWIywOc0VzwIY5MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
